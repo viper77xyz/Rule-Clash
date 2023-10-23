@@ -31,5 +31,6 @@ payload:
   - IP-CIDR,31.13.0.0/16
 
 # INSTAGRAM
-  - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,cdninstagram.com
+
+  - +.instagram.com
+  - +.cdninstagram.com
