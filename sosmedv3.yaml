@@ -15,8 +15,6 @@ payload:
   - +.t.me
   - +.tg.dev
   - +.tdekstop.com
-  - DOMAIN-KEYWORD,telegra
-  - DOMAIN-KEYWORD,telegram
   - IP-CIDR,91.108.56.146/24
   - IP-CIDR,91.108.56.180/24
   - IP-CIDR,149.154.167.151/24
@@ -33,6 +31,5 @@ payload:
   - IP-CIDR,31.13.0.0/16
 
 # INSTAGRAM
-  - DOMAIN-KEYWORD,instagram
-  - DOMAIN-KEYWORD,ig
+  - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
