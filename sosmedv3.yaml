@@ -12,10 +12,10 @@ payload:
   
 # TELEGRAM
 
+  - +.telegram.org
   - +.t.me
   - +.tg.dev
   - +.tdekstop.com
-  - +.telegram.org
   - IP-CIDR,91.108.56.146/24
   - IP-CIDR,91.108.56.180/24
   - IP-CIDR,149.154.167.151/24
