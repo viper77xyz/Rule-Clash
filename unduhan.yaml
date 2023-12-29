@@ -1,3 +1,6 @@
 payload:
 #GOFILE
   - DOMAIN-SUFFIX,gofile.io
+
+#MegaUp
+  - DOMAIN-SUFFIX,megaup.net
