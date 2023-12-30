@@ -9,6 +9,7 @@ payload:
   - "+.googlesyndication.com"
   - "+.google.com"
   - "+.googletagservices.com"
+  - "+.googleadservices.com"
 #Youtube
   - "+.googlevideo.com"
   - "+.video.google.com"
