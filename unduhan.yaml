@@ -7,11 +7,13 @@ payload:
 
 #Sokuja
   - DOMAIN,storages.sokuja.id
+  
 #VK
   - DOMAIN-SUFFIX,vkuser.net
+
 #AdsGift
-  - DOMAIN-SUFFIX.adjoy
   - DOMAIN,adrfp.fout.jp
+  - DOMAIN-SUFFIX,adsmoloco.com
   - DOMAIN-SUFFIX,tapjoy.com
   - DOMAIN-SUFFIX,tapjoyads.com
   - DOMAIN-SUFFIX,adjoe.zone
