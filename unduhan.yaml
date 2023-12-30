@@ -7,3 +7,5 @@ payload:
 
 #Sokuja
   - DOMAIN,storages.sokuja.id
+#VK
+  - DOMAIN-SUFFIX,vkuser.net
