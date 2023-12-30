@@ -4,3 +4,6 @@ payload:
 
 #MegaUp
   - DOMAIN-SUFFIX,megaup.net
+
+#Sokuja
+  - DOMAIN,storages.sokuja.id
