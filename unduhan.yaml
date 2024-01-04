@@ -21,3 +21,4 @@ payload:
 
 #MirrorTorrentPremiumHowdy
   - DOMAIN,ovin.vinc.workers.dev
+  - DOMAIN,cdn1.dths.workers.dev
