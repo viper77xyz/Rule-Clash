@@ -22,3 +22,6 @@ payload:
 #MirrorTorrentPremiumHowdy
   - DOMAIN,ovin.vinc.workers.dev
   - DOMAIN,cdn1.dths.workers.dev
+
+#LazadaMisi
+  - DOMAIN,lazvideo.lazcdn.com
