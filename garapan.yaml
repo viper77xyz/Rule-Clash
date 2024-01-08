@@ -1,3 +1,6 @@
 payload:
 #Faucetpay.io
   - DOMAIN-SUFFIX,faucetpay.io
+  
+#faucetsfly.com
+  - DOMAIN-SUFFIX,faucetsfly.com
