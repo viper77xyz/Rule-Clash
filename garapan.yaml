@@ -4,3 +4,6 @@ payload:
   
 #faucetsfly.com
   - DOMAIN-SUFFIX,faucetsfly.com
+
+#bitfaucet.pw
+  - DOMAIN-SUFFIX,bitfaucet.pw
