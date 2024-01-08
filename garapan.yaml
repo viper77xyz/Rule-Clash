@@ -7,3 +7,6 @@ payload:
 
 #bitfaucet.pw
   - DOMAIN-SUFFIX,bitfaucet.pw
+
+#faucetcrypto.com
+  - DOMAIN-SUFFIX,faucetcrypto.com
