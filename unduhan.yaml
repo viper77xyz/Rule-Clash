@@ -25,3 +25,9 @@ payload:
 
 #LazadaMisi
   - DOMAIN,lazvideo.lazcdn.com
+
+#Terabox
+  - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,nephobox.com
+  - DOMAIN-SUFFIX,1024tera.com
+  - DOMAIN-SUFFIX,terabox1024.com
