@@ -15,5 +15,16 @@ payload:
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypal-community.com
 
-  #Coinbase
+#Coinbase
   - DOMAIN-SUFFIX,coinbase.com
+
+#BlingServer
+  - DOMAIN,blingfi-assets.b-cdn.net
+  - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,chartboost.com
+  - DOMAIN-SUFFIX,cloudfunctions.net
+  - DOMAIN-SUFFIX,supersonicads.com
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,inmobi.com
+  - DOMAIN-SUFFIX,inner-active.mobi
+  - DOMAIN-SUFFIX,bidmachine.io
