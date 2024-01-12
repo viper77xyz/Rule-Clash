@@ -10,3 +10,10 @@ payload:
 
 #faucetcrypto.com
   - DOMAIN-SUFFIX,faucetcrypto.com
+
+#Paypal
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal-community.com
+
+  #Coinbase
+  - DOMAIN-SUFFIX,coinbase.com
