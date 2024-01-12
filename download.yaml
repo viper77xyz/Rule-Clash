@@ -3,7 +3,6 @@ payload:
   - "+.googletagmanager.com"
   - "+.google-analytics.com"
   - "+.gstatic.com"
-  - "+.googleapis.com"
   - "+.googleusercontent.com"
   - "+.doubleclick.net"
   - "+.googlesyndication.com"
