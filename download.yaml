@@ -9,6 +9,7 @@ payload:
   - "+.google.com"
   - "+.googletagservices.com"
   - "+.googleadservices.com"
+  - "+.googleapis.com"
 #Youtube
   - "+.googlevideo.com"
   - "+.video.google.com"
