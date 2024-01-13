@@ -32,5 +32,7 @@ payload:
   - DOMAIN-SUFFIX,1024tera.com
   - DOMAIN-SUFFIX,terabox1024.com
   - DOMAIN-SUFFIX,teraboxcdn.com
+  - DOMAIN-SUFFIX,terabox.app
+
 #Acefile
   - DOMAIN-SUFFIX,acefile.co
