@@ -30,3 +30,6 @@ payload:
   - DOMAIN-SUFFIX,bidmachine.io
   - DOMAIN-SUFFIX,pangle.io
   - DOMAIN-SUFFIX,vungle.com
+
+#Acefile
+  - DOMAIN-SUFFIX,acefile.co
