@@ -33,3 +33,6 @@ payload:
 
 #Acefile
   - DOMAIN-SUFFIX,acefile.co
+
+#Kuyhaa
+  - DOMAIN,www.kuyhaa-me.com
