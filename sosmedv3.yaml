@@ -18,8 +18,7 @@ payload:
   - +.tg.dev
   - +.tdekstop.com
   - IP-CIDR,91.108.56.0/24
-  - IP-CIDR,149.154.167.0/24
-  - IP-CIDR,149.154.175.0/24
+  - IP-CIDR,149.154.0.0/16
   
 # WHATSAPP
 
