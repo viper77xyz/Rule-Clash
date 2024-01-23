@@ -1,5 +1,6 @@
 payload:
 # POINT BLANK ID
 
-  - DOMAIN-KEYWORD,pointblank.id
+  - DOMAIN-SUFFIX,pointblank.id
+  - DOMAIN-SUFFIX,zepetto.com
   - IP-CIDR,43.249.208.0/24
