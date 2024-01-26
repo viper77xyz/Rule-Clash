@@ -36,3 +36,6 @@ payload:
 
 #Kuyhaa
   - DOMAIN,www.kuyhaa-me.com
+
+#CaptchaCloudflare
+  = DOMAIN,challenges.cloudflare.com
