@@ -49,3 +49,8 @@ payload:
 #Codashop
   - DOMAIN-SUFFIX,codashop.com
   - DOMAIN-SUFFIX,codainfra.com
+
+#Exabytes
+  - DOMAIN-SUFFIX,exabytes.sg
+  - DOMAIN-SUFFIX,exabytes.com
+  - DOMAIN-SUFFIX,exabytes.co.id
