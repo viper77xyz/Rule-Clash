@@ -38,4 +38,4 @@ payload:
   - DOMAIN,www.kuyhaa-me.com
 
 #CaptchaCloudflare
-  = DOMAIN,challenges.cloudflare.com
+  - DOMAIN,challenges.cloudflare.com
