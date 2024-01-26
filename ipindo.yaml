@@ -39,3 +39,6 @@ payload:
 
 #CaptchaCloudflare
   - DOMAIN,challenges.cloudflare.com
+
+#VPNJantit
+  - DOMAIN,www.vpnjantit.com
