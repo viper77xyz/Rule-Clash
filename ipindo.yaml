@@ -45,3 +45,6 @@ payload:
 
 #Unipin
   - DOMAIN-SUFFIX,unipin.com
+
+#Codashop
+  - DOMAIN-SUFFIX,codashop.com
