@@ -60,3 +60,6 @@ payload:
   - DOMAIN-SUFFIX,exabytes.sg
   - DOMAIN-SUFFIX,exabytes.com
   - DOMAIN-SUFFIX,exabytes.co.id
+
+#IDCloudHost
+  - DOMAIN-SUFFIX,idcloudhost.com
