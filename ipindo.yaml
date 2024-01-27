@@ -8,6 +8,9 @@ payload:
 #faucetsfly.com
   - DOMAIN-SUFFIX,faucetsfly.com
 
+#Hostinger
+  - DOMAIN-SUFFIX,hostinger.com
+  
 #bitfaucet.pw
   - DOMAIN-SUFFIX,bitfaucet.pw
 
