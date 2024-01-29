@@ -3998,8 +3998,8 @@ payload:
   - DOMAIN,garena.tv
   - DOMAIN,garena.tw
   - DOMAIN,garena.vn
-  - DOMAIN,garenanow.com
   - DOMAIN,seagroup.com
+  - DOMAIN-SUFFIX,garenanow.com
   - DOMAIN-SUFFIX,*.akamaihd.net
   - DOMAIN-SUFFIX,*.freefiremobile.com
   - DOMAIN-SUFFIX,*.appsflyer.com
