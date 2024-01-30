@@ -11,8 +11,8 @@ payload:
   - "+.googleadservices.com"
   - "+.googleapis.com"
 #Youtube
-  - DOMAIN-SUFFIX,*.googlevideo.com
-  - DOMAIN-SUFFIX,googlevideo.com
+  - "+.+.googlevideo.com"
+  - "+.googlevideo.com"
   - "+.video.google.com"
   - "+.youtu.be"
   - "+.youtube-nocookie.com"
