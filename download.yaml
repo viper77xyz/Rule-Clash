@@ -11,7 +11,7 @@ payload:
   - "+.googleadservices.com"
   - "+.googleapis.com"
 #Youtube
-  - DOMAIN-KEYWORD,googlevideo
+  - "+.googlevideo.com"
   - "+.video.google.com"
   - "+.youtu.be"
   - "+.youtube-nocookie.com"
