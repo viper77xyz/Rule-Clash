@@ -63,3 +63,12 @@ payload:
 
 #IDCloudHost
   - DOMAIN-SUFFIX,idcloudhost.com
+
+#Vultr
+  - DOMAIN-SUFFIX,vultr.com
+
+#DigitalOcean
+  - DOMAIN-SUFFIX,digitalocean.com
+
+#Linode
+  - DOMAIN-SUFFIX,linode.com
