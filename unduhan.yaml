@@ -1,6 +1,8 @@
 payload:
 #Speedtest.net
   - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-KEYWORD,speedsin
+  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ooklaserver.net
 #GOFILE
   - DOMAIN-SUFFIX,gofile.io
