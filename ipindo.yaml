@@ -75,4 +75,8 @@ payload:
 
 #PaysafeCard
   - DOMAIN-SUFFIX,paysafecard.com
+  
+#Spotify
   - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,scdn.co
