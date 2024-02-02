@@ -36,6 +36,3 @@ payload:
 
 #ApkpureDownload
   - DOMAIN-SUFFIX,winudf.com
-
-#PaysafeCard
-  - DOMAIN-SUFFIX,paysafecard.com
