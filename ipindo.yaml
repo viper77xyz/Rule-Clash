@@ -72,3 +72,6 @@ payload:
 
 #Linode
   - DOMAIN-SUFFIX,linode.com
+
+#PaysafeCard
+  - DOMAIN-SUFFIX,paysafecard.com
