@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,speedsin
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ooklaserver.net
+  
 #GOFILE
   - DOMAIN-SUFFIX,gofile.io
 
@@ -15,7 +16,7 @@ payload:
   
 #VK
   - DOMAIN-SUFFIX,vkuser.net
-
+  - DOMAIN-SUFFIX,userapi.com
 #AdsGift
   - DOMAIN,adrfp.fout.jp
   - DOMAIN-SUFFIX,adsmoloco.com
