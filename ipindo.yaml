@@ -80,3 +80,6 @@ payload:
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,scdn.co
+
+#Qobuz
+  - DOMAIN-SUFFIX,qobuz.com
