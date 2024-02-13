@@ -83,3 +83,10 @@ payload:
 
 #Qobuz
   - DOMAIN-SUFFIX,qobuz.com
+
+#SokujaWEBSITE
+  - DOMAIN,sokuja.pw
+  - DOMAIN,sokuja.site
+  - DOMAIN.sokuja.id
+  - DOMAIN-SUFFIX,sokuja.my.id
+
