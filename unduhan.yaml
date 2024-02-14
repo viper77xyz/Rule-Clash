@@ -42,3 +42,6 @@ payload:
 
 #ApkpureDownload
   - DOMAIN-SUFFIX,winudf.com
+
+#Qobuz
+  - DOMAIN,streaming-qobuz-std.akamaized.net
