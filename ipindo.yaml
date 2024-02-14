@@ -1,6 +1,7 @@
 payload:
 
 #Anichin
+  - DOMAIN,anichin.disqus.com
   - DOMAIN-SUFFIX,anichin.top
 
 #Faucetpay.io
