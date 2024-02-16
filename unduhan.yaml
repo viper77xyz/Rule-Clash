@@ -45,9 +45,3 @@ payload:
 
 #Qobuz
   - DOMAIN,streaming-qobuz-std.akamaized.net
-
-#Youtube-DriveGoogle-PlayStore
-  - DOMAIN,drive.usercontent.google.com
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,gvt1.com"
-  - DOMAIN-SUFFIX,gvt2.com"
