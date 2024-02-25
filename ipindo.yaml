@@ -62,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX,codainfra.com
 
 #Exabytes
+  - DOMAIN,exabyteshq.freshworks.com
   - DOMAIN-SUFFIX,exabytes.sg
   - DOMAIN-SUFFIX,exabytes.com
   - DOMAIN-SUFFIX,exabytes.co.id
