@@ -17,6 +17,7 @@ payload:
 #VK
   - DOMAIN-SUFFIX,vkuser.net
   - DOMAIN-SUFFIX,userapi.com
+  
 #AdsGift
   - DOMAIN,adrfp.fout.jp
   - DOMAIN-SUFFIX,adsmoloco.com
@@ -39,6 +40,9 @@ payload:
   - DOMAIN-SUFFIX,terabox1024.com
   - DOMAIN-SUFFIX,teraboxcdn.com
   - DOMAIN-SUFFIX,terabox.app
+
+#Pixeldrain
+  - DOMAIN,pixeldrain.com
 
 #ApkpureDownload
   - DOMAIN-SUFFIX,winudf.com
