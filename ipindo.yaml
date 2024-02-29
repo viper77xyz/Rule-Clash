@@ -96,3 +96,5 @@ payload:
   - DOMAIN.sokuja.id
   - DOMAIN-SUFFIX,sokuja.my.id
 
+#NgrokRDP
+  - DOMAIN-SUFFIX,ngrok.io
