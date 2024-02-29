@@ -49,3 +49,7 @@ payload:
 
 #Qobuz
   - DOMAIN,streaming-qobuz-std.akamaized.net
+
+#Wandrive
+  - DOMAIN,sharepoint.com
+  - DOMAIN,1drv.com
