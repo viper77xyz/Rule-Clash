@@ -51,5 +51,5 @@ payload:
   - DOMAIN,streaming-qobuz-std.akamaized.net
 
 #Wandrive
-  - DOMAIN,sharepoint.com
-  - DOMAIN,1drv.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,1drv.com
