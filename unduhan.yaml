@@ -17,7 +17,8 @@ payload:
 #VK
   - DOMAIN-SUFFIX,vkuser.net
   - DOMAIN-SUFFIX,userapi.com
-  
+  - DOMAIN-SUFFIX,mycdn.me
+
 #AdsGift
   - DOMAIN,adrfp.fout.jp
   - DOMAIN-SUFFIX,adsmoloco.com
