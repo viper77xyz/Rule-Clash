@@ -83,6 +83,8 @@ payload:
   - DOMAIN-SUFFIX,paysafecard.com
   
 #Spotify
+  - DOMAIN,video-akpcw-cdn-spotify-com.akamaized.net
+  - DOMAIN,audio-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,scdn.co
