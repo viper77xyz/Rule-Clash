@@ -1,5 +1,12 @@
 payload:
 
+#MyOrbit
+  - DOMAIN-SUFFIX,myorbit.id
+
+#MyTelkomsel
+  - DOMAIN-SUFFIX,telkomsel.com
+  - DOMAIN-SUFFIX,useinsider.com
+
 #Anichin
   - DOMAIN,anichin.disqus.com
   - DOMAIN-SUFFIX,anichin.top
