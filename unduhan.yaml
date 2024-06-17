@@ -8,6 +8,10 @@ payload:
 #GOFILE
   - DOMAIN-SUFFIX,gofile.io
 
+#DailyMotion
+  - DOMAIN-SUFFIX,dailymotion.com
+  - DOMAIN-SUFFIX,dmcdn.net
+  
 #MegaUp
   - DOMAIN-SUFFIX,megaup.net
 
