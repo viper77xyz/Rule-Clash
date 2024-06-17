@@ -9,7 +9,8 @@ payload:
 
 #Anichin
   - DOMAIN,anichin.disqus.com
-  - DOMAIN-SUFFIX,anichin.top
+  - DOMAIN-SUFFIX,anichin.site
+  - DOMAIN-SUFFIX,kazesub.com
 
 #Faucetpay.io
   - DOMAIN-SUFFIX,faucetpay.io
